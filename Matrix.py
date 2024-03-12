@@ -100,6 +100,11 @@ class MatrixOperations:
             self.ask_single_matrix()
         elif user_choice == '11':
             self.ask_single_matrix()
+        elif user_choice == '12':
+            self.ask_single_matrix()
+        elif user_choice == '13':
+            self.ask_single_matrix()
+        
         else:
             print("Invalid choice. Please try again.")
 
